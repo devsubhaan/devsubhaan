@@ -6,6 +6,11 @@ I'm currently learning Python, JavaScript, C, and Git while building projects to
 
 I plan on learning a lot more about Python, such as NumPy, Pandas, PyTorch and TensorFlow.
 
+**Currently Learning:**
+- NumPy
+- Pandas
+- Matplotlib
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhaanahmed) 
 
