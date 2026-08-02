@@ -1,3 +1,10 @@
+Hello 👋
+
+I'm a Computer Science student from England with an interest in mainly artificial intelligence, software engineering and problem solving.
+
+I'm currently learning Python, JavaScript, C, and Git while building projects to improve my skills.
+
+I plan on learning a lot more about Python, such as NumPy, Pandas, PyTorch and TensorFlow.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhaanahmed) 
