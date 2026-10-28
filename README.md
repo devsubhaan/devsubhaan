@@ -1,6 +1,6 @@
 ### 🚀 Projects
-- **[Neural Network from Scratch](https://github.com/devsubhaan/neural-network-scratch)**: a feed-forward neural network built in NumPy without ML frameworks, with unit tests (in progress).
-- **[Student GPA Prediction Pipeline](https://github.com/devsubhaan/Student-Grade-Predictor)**: an ML pipeline that tunes Ridge, XGBoost and CatBoost models with Optuna and picks the best by cross-validated MAE.
+- **[Neural Network from Scratch](https://github.com/devsubhaan/neural-network-scratch): a feed-forward neural network built in NumPy without ML frameworks, with unit tests (in progress).**
+- **[Student GPA Prediction Pipeline](https://github.com/devsubhaan/Student-Grade-Predictor): an ML pipeline that tunes Ridge, XGBoost and CatBoost models with Optuna and picks the best by cross-validated MAE.**
   
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
