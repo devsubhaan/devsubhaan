@@ -1,5 +1,5 @@
 
-# Hello, I am an aspiring Machine Learning Engineer learning data science and machine learning
+# Aspiring Machine Learning Engineer learning data science, machine learning and a bit of software engineering
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
